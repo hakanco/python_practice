@@ -8,4 +8,4 @@ def hw(start, n):
     return result
 
 
-print("the result is ", hw(5, 7))
+print("The result is ", hw(5, 7))
