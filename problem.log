@@ -1,0 +1,16 @@
+
+INFO:root:everything is ok!
+INFO:root:application finished.
+INFO:root:everything is ok!
+INFO:root:application finished.
+INFO:root:application finished.
+ERROR:root:list index out of range
+INFO:root:application finished.
+ERROR:root:list index out of range
+INFO:root:application finished.
+ERROR:root:list index out of range
+INFO:root:application finished.
+ERROR:root:division by zero
+INFO:root:application finished.
+ERROR:root:division by zero
+INFO:root:application finished.
